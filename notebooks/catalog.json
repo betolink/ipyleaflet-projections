@@ -1,0 +1,9 @@
+[
+  {
+    "dataset": "partial-texas-counties",
+    "type": "shapefile",
+    "url": "https://drive.google.com/uc?export=download&id=1xVAJf6ZYaHW0MNtZ2NsBBY3Cc7dqTeCx",
+    "projection": "EPSG:4267",
+    "compressed": true
+  }
+]

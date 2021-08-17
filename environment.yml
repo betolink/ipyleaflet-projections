@@ -1,0 +1,22 @@
+name: ipyleaflet-projections
+channels:
+- conda-forge
+dependencies:
+- python=3.8
+- ipyleaflet~=0.13
+- pyproj~=3.1
+- geopandas~=0.9
+- requests~=2.24
+- geojson~=2.5
+- matplotlib-base~=3.3
+- bqplot~=0.12
+- cartopy~=0.18
+- tqdm~=4.59
+- jupyterlab=3
+- ipympl~=0.6.3
+- sidecar~=0.5
+- fiona~=1.8
+- python-magic~=0.4
+- pip
+- pip:
+  - pqdm
